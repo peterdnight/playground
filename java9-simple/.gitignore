@@ -1,0 +1,7 @@
+/target/
+/logs/
+/build/
+/temp/
+/.*.md.html
+
+*.class
